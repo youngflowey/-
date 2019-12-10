@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 마스터 test 긴급수정!
 성공했다!
+=======
+hotfix branch 에서 수정함
+우와아아아앙
+>>>>>>> hotfix/test
